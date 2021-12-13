@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> Renders the heading 1`] = `
+<main>
+  <h1>
+    Genesis Boilerplate
+  </h1>
+  <p>
+    Atualização
+  </p>
+</main>
+`
