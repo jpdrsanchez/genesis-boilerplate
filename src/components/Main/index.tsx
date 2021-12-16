@@ -1,9 +1,11 @@
+import * as S from './styles'
+
 const Main = () => {
   return (
-    <main>
+    <S.Wrapper>
       <h1>Genesis Boilerplate</h1>
-      <p>Atualização</p>
-    </main>
+      <p>NextJS Boilerplate for my personal and comercial projects</p>
+    </S.Wrapper>
   )
 }
 

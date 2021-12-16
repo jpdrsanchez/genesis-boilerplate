@@ -1,9 +1,11 @@
-type Props = {
-  title: string
-}
+import Main from 'components/Main'
 
-const Home = ({ title = 'Genesis Boilerplate' }: Props) => {
-  return <div>{title}</div>
+const Home = () => {
+  return (
+    <>
+      <Main />
+    </>
+  )
 }
 
 export default Home
